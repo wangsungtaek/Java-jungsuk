@@ -17,3 +17,4 @@ public class Ex9_14 {
 		System.out.println("TYPE="+Integer.TYPE);
 	}
 }
+ 
