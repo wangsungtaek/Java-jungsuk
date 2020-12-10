@@ -23,7 +23,6 @@ public class Ex12_3 {
 		fruitBox.add(new Apple());
 		fruitBox.add(new Grape());
 		appleBox.add(new Apple());
-		
 	}
 }
 
